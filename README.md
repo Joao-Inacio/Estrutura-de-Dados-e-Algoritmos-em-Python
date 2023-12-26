@@ -10,7 +10,7 @@ Nesse curso Irei aprender a teoria e implementação passo a passo das principai
 - [x] [Seção 2: Programação Básica em Python](https://github.com/Joao-Inacio/IA_e_Machine_Learning/tree/main/0.0-Revisão)
 - [x] [Seção 3: Notação Big-O para análise de algoritmos](https://github.com/Joao-Inacio/Estrutura-de-Dados-e-Algoritmos-em-Python/tree/main/Notacao-Big-O)
 - [x] [Seção 4: Vetores não Ordenados](https://github.com/Joao-Inacio/Estrutura-de-Dados-e-Algoritmos-em-Python/tree/main/Vetores-nao-Ordenado)
-- [ ] [Seção 5: Vetores Ordenados]()
+- [x] [Seção 5: Vetores Ordenados](https://github.com/Joao-Inacio/Estrutura-de-Dados-e-Algoritmos-em-Python/tree/main/Vetores-Ordenados)
 - [ ] [Seção 6: Pilhas, Filas e Deques]()
 - [ ] [Seção 7: Listas Encadeadas]()
 - [ ] [Seção 8: Recursão]()
