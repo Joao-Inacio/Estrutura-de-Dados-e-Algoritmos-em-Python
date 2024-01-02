@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# vscode
+.vscode/
+teste.py
+teste.ipynb
+
+
 # Distribution / packaging
 .Python
 build/
